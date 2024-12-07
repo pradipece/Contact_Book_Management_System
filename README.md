@@ -6,9 +6,7 @@ This project developing a Command-Line Interface (CLI) project using Python for 
 
 Add Contacts:
 
-- Allow users to add contacts with at least the following details: Name, Email, Phone Number, and Address.
-
-- You can include additional fields if necessary.
+- Allow users to add contacts with at least the following details: Name, Email, Phone Number, Address, and other details.
 
 Prevent Duplicate Numbers:
 
@@ -32,17 +30,17 @@ Remove Contacts:
 
 - Provide an option to delete contacts from the file.
 
+Menu System:
+
 ![alt text](docs/images/img1.png)
 
 ![alt text](docs/images/img2.png)
-
-EXTRA FEATURES:
 
 Search Contacts:
 
 - Implement functionality to search for specific contacts based on their details.
 
-Error Handling:
+File Error Handling:
 
 - Display meaningful error messages for invalid inputs, such as:
 
@@ -50,7 +48,6 @@ Error Handling:
   - The phone number must be an integer.
   - Provide clear guidance to users on resolving input issues.
 
-NOTES:
 
 File Structure:
 
@@ -62,13 +59,6 @@ Created a simple architecture or design plan for the application. Use any tool t
 
 ![alt text](docs/images/img3.png)
 
-Modular Code:
-
-Write reusable and maintainable code by encapsulating features within functions.
-
-No External Libraries:
-
-Use only the Python as taught in the course. Avoid third-party packages or frameworks.
 
 Menu System:
 
