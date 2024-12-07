@@ -1,8 +1,8 @@
-## OVERVIEW:
+### OVERVIEW:
 
 This project developing a Command-Line Interface (CLI) project using Python for a Contact Book Management System. The project should apply Python concepts, Graphic User Interface (GUI) or external libraries are not required—everything should run directly in the terminal.
 
-## TASKS:
+### TASKS:
 
 Add Contacts:
 
