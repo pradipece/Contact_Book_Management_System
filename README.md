@@ -36,7 +36,7 @@ Remove Contacts:
 
 ![alt text](docs/images/image1.png)
 
-BONUS FEATURES:
+EXTRA FEATURES:
 
 Search Contacts:
 
