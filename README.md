@@ -32,9 +32,9 @@ Remove Contacts:
 
 - Provide an option to delete contacts from the file.
 
-![alt text](docs/images/image.png)
+![alt text](docs/images/img1.png)
 
-![alt text](docs/images/image1.png)
+![alt text](docs/images/img2.png)
 
 EXTRA FEATURES:
 
@@ -60,7 +60,7 @@ Application Design:
 
 Created a simple architecture or design plan for the application. Use any tool to draw the plan  and include the image in the project folder.
 
-![alt text](docs/images/image2.png)
+![alt text](docs/images/img3.png)
 
 Modular Code:
 
@@ -72,6 +72,6 @@ Use only the Python as taught in the course. Avoid third-party packages or frame
 
 Menu System:
 
-Design an interactive menu with an Exit option for easy navigation and all features should be accessible from this menu.
+Design an interactive menu with an Exit option for easy navigation all features should be accessible from this menu.
 
-![alt text](docs/images/image3.png)
+![alt text](docs/images/img4.png)
