@@ -1,6 +1,6 @@
 ## OVERVIEW:
 
-This assignment requires developing a Command-Line Interface (CLI) project using Python for a Contact Book Management System. The project should apply the Python concepts we’ve learned throughout the course. Using any Graphic User Interface (GUI), frameworks, or external libraries is not required—everything should run directly in the terminal.
+This project developing a Command-Line Interface (CLI) project using Python for a Contact Book Management System. The project should apply Python concepts, Graphic User Interface (GUI) or external libraries are not required—everything should run directly in the terminal.
 
 ## TASKS:
 
@@ -12,15 +12,15 @@ Add Contacts:
 
 Prevent Duplicate Numbers:
 
-- Ensure that the same phone number cannot be assigned to multiple names.
+- Ensure that multiple names cannot be assigned the same phone number.
 
 View Contacts:
 
-- Display all saved contacts in a well-organized format. A neat and user friendly presentation is encouraged.
+- Display all saved contacts in a well-organized format. A neat and user-friendly presentation is encouraged.
 
 Save to File:
 
-- Store all contact information in a file of your choice (e.g., .txt, .csv, etc.).
+- Store all contact information in your chosen file (e.g., .txt, .csv, etc.).
 
 - Contacts should be automatically saved to the file upon addition.
 
@@ -54,11 +54,11 @@ NOTES:
 
 File Structure:
 
-Organize your project into multiple Python files, each dedicated to specific features or functionalities.
+Organize the project into multiple Python files, each dedicated to specific features or functionalities.
 
 Application Design:
 
-Create a simple architecture or design plan for the application. You may use any tool to draw the plan or sketch it by hand and include the image in the project folder. Visual representations of your plan are encouraged.
+Created a simple architecture or design plan for the application. Use any tool to draw the plan  and include the image in the project folder.
 
 ![alt text](docs/images/image2.png)
 
@@ -72,6 +72,6 @@ Use only the Python as taught in the course. Avoid third-party packages or frame
 
 Menu System:
 
-Design an interactive menu with an Exit option for easy navigation. All features should be accessible from this menu.
+Design an interactive menu with an Exit option for easy navigation and all features should be accessible from this menu.
 
 ![alt text](docs/images/image3.png)
